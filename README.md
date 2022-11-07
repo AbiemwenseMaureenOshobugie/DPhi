@@ -1,5 +1,9 @@
-# DPhi
-DPhi AI Challenges
+# DPhi AI Challenges.
+
+#### What are AI Challenges?
+
+AI Challenges at DPhi simulate real-world problems. It is a great place to put your AI/Data Science skills to test on diverse datasets allowing you to foster learning through competitions.
+
 Why Participate in AI Challenges?
 
 #### 1. Prove your skills
@@ -13,4 +17,3 @@ You will stand out from the crowd if you do well in AI challenges, it not only h
 
 #### 4. Learn from community
 One can look and analyze the solutions submitted by the other Data Scientists in the community and learn from them.
-
